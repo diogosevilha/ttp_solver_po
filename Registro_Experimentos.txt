@@ -1,0 +1,5 @@
+Tempo total de execução: 563.88 segundos
+Resultados foram salvos em resultados/Resultados_TTP.csv
+
+Detalhes dos resultados:
+{'melhor_rota': [0, 21, 7, 25, 30, 27, 2, 35, 34, 19, 1, 28, 20, 15, 49, 33, 29, 8, 48, 9, 38, 32, 44, 14, 43, 41, 18, 39, 40, 12, 24, 13, 23, 42, 6, 22, 47, 5, 26, 50, 45, 11, 46, 17, 3, 16, 36, 4, 37, 10, 31], 'melhor_itens': [(31, 1378, 1178), (10, 1868, 1468), (4, 202, 2), (3, 404, 4), (1, 101, 1), (2, 202, 2), (36, 1275, 975), (50, 294, 94), (19, 444, 244), (49, 147, 47)], 'melhor_lucro': 3976.048909486885, 'lucro_total': 3976.048909486885, 'tempo_viagem': 526.7907861516024, 'aluguel_total': 2338.951090513115, 'valor_itens': 6315, 'peso_total': 4015, 'status': 'Success', 'arquivo_instancia': 'Instancias\\eil51_n50_bounded-strongly-corr_01__.ttp', 'num_iteracoes': 100, 'duracao_tabu': 60, 'tempo_total': 7.919253000058234}

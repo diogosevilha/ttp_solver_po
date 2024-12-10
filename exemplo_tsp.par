@@ -1,0 +1,2 @@
+PROBLEM_FILE = exemplo_tsp.tsp
+OUTPUT_TOUR_FILE = exemplo_tsp.tour
